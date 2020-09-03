@@ -1,0 +1,4 @@
+[submodule "anku10/odooshv11"]
+	path = anku10/odooshv11
+	url = git@github.com:anku10/odooshv11.git
+	branch = Odoo13Testing
